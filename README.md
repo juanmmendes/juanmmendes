@@ -59,3 +59,6 @@ Sou um jovem profissional em formação com grande entusiasmo por **dados**, **e
 
 ---
 
+## 🐍 Contribuição dinâmica
+
+![snake gif](https://github.com/juanmmendes/juanmmendes/blob/output/github-contribution-grid-snake.svg)
