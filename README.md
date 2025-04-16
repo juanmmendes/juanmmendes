@@ -7,28 +7,42 @@
 
 ## 💡 Sobre mim
 
-Sou um jovem profissional em formação com grande entusiasmo por **dados**, **engenharia de software**, **automação** e **gestão estratégica em TI**. Busco aplicar tecnologia de forma inteligente, criativa e com propósito. Já atuei e venho estudando nas seguintes frentes:
+Sou um jovem profissional em formação com entusiasmo por **dados**, **engenharia de software**, **automação** e **gestão estratégica em TI**. Tenho como diferencial a aplicação de **Design Thinking** em processos de resolução de problemas, sempre focando em inovação com propósito.
 
-- 📊 **Power BI** e Business Intelligence  
+📌 Já atuei e venho estudando nas seguintes frentes:
+
+- 📊 **Power BI**, **DAX** e modelagem de dados  
+- 📈 **Excel Avançado**, fórmulas e dashboards interativos  
+- 🧠 **Extração, transformação e manipulação de dados** com Python e SQL  
 - 🤖 **Machine Learning**, engenharia de prompt e análise preditiva  
-- 🧰 **Git/GitHub**, versionamento e boas práticas de código  
-- 🧠 **Código limpo**, paradigmas de programação e **design patterns**  
-- 🛠️ **Automação de processos** com foco em eficiência  
-- 📦 Conhecimento em **ERP**, **CRM**, **SAP** e sistemas de gestão  
-- 📈 Metodologias ágeis como **Scrum** e **Kanban**
+- 🤖 Criação de **chatbots e agentes de IA** para automação e atendimento inteligente  
+- 🧱 **Versionamento com Git/GitHub**, uso de branches e colaboração em equipe  
+- 💡 Aplicação de **metodologias ágeis** como Scrum e Kanban  
+- 🛠️ **Automação de processos** com foco em eficiência operacional  
+- 🌐 **Desenvolvimento web e backend** com:
+  - **JavaScript**, **TypeScript**, **React**
+  - **HTML5**, **CSS3**, **PHP**
+  - Iniciando com **NoSQL** (MongoDB)
+- 📦 Conhecimento funcional em **ERP**, **CRM**, **SAP** e sistemas de gestão
 
-💬 Acredito que tecnologia de verdade é aquela que **transforma realidades** — e é isso que busco construir em cada projeto, aula ou desafio.
+🎯 Busco oportunidades para contribuir em ambientes que valorizem tecnologia, criatividade, aprendizado contínuo e impacto real.
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+  <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -53,10 +67,10 @@ Sou um jovem profissional em formação com grande entusiasmo por **dados**, **e
 
 ---
 
-## Frase que me guia:
+## 🧠 Frase que me guia
 
-🧠 *“Tecnologia não é apenas sobre máquinas, é sobre pessoas, ideias e soluções que transformam o mundo.”*
+> *“Tecnologia não é apenas sobre máquinas, é sobre pessoas, ideias e soluções que transformam o mundo.”*
 
----
-
-
+<p align="center">
+  ✨ Obrigado por visitar meu perfil! Vamos transformar ideias em soluções. 🚀
+</p>
