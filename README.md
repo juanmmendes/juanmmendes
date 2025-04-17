@@ -72,5 +72,5 @@ Sou um jovem profissional em formação com entusiasmo por **dados**, **engenhar
 > *“Tecnologia não é apenas sobre máquinas, é sobre pessoas, ideias e soluções que transformam o mundo.”*
 
 <p align="center">
-  ✨ Obrigado por visitar meu perfil! Vamos transformar ideias em soluções. 🚀
+   Obrigado por visitar meu perfil! Vamos transformar ideias em soluções. 
 </p>
