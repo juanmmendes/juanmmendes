@@ -40,7 +40,7 @@ Sou um jovem profissional em formação com entusiasmo por **dados**, **engenhar
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
----
+
 
 ## 📈 Minhas estatísticas no GitHub
 
