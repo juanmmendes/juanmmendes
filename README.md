@@ -24,22 +24,44 @@ Sou um jovem profissional em formação com entusiasmo por **dados**, **engenhar
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### 💻 Linguagens & Desenvolvimento Web
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-  <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+### 🧠 Inteligência Artificial & Automação
+<div style="display: inline_block"><br>
+  <img align="center" alt="OpenAI" height="30" width="40" src="https://img.icons8.com/color/48/000000/openai.png"/>
+  <img align="center" alt="Claude" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Anthropic_logo_2023.svg"/>
+  <img align="center" alt="Copilot" height="30" width="40" src="https://github.com/github/copilot-docs/blob/main/docs/assets/images/copilot-logo.png?raw=true"/>
+  <img align="center" alt="n8n" height="30" width="40" src="https://n8n.io/images/n8n-logo.png"/>
+</div>
+
+### 📊 Dados & Business Intelligence
+<div style="display: inline_block"><br>
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+  <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/>
+  <img align="center" alt="Cognos" height="30" width="40" src="https://seeklogo.com/images/I/ibm-cognos-logo-E5C6B93F14-seeklogo.com.png"/>
+</div>
+
+### 🛢️ Banco de Dados
+<div style="display: inline_block"><br>
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</div>
+
+### 🛠️ DevOps & Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
+
 
 ---
 
