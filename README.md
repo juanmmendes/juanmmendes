@@ -9,24 +9,17 @@
 
 Sou um jovem profissional em formação com entusiasmo por **dados**, **engenharia de software**, **automação** e **gestão estratégica em TI**. Tenho como diferencial a aplicação de **Design Thinking** em processos de resolução de problemas, sempre focando em inovação com propósito.
 
-📌 Já atuei e venho estudando nas seguintes frentes:
+## 📌 Expertise em Dados, Automação e Desenvolvimento Web
 
-- 📊 **Power BI**, **DAX** e modelagem de dados  
-- 📈 **Excel Avançado**, fórmulas e dashboards interativos  
-- 🧠 **Extração, transformação e manipulação de dados** com Python e SQL  
-- 🤖 **Machine Learning**, engenharia de prompt e análise preditiva  
-- 🤖 Criação de **chatbots e agentes de IA** para automação e atendimento inteligente  
-- 🧱 **Versionamento com Git/GitHub**, uso de branches e colaboração em equipe  
-- 💡 Aplicação de **metodologias ágeis** como Scrum e Kanban  
-- 🛠️ **Automação de processos** com foco em eficiência operacional  
-- 🌐 **Desenvolvimento web e backend** com:
-  - **JavaScript**, **TypeScript**, **React**
-  - **HTML5**, **CSS3**, **PHP**
-  - Iniciando com **NoSQL** (MongoDB)
-- 📦 Conhecimento funcional em **ERP**, **CRM**, **SAP** e sistemas de gestão
-
-🎯 Busco oportunidades para contribuir em ambientes que valorizem tecnologia, criatividade, aprendizado contínuo e impacto real.
-
+- 📊 **Análise de Dados** com Power BI, DAX, Excel avançado e dashboards interativos  
+- 🧠 **ETL com Python e SQL**, com foco em extração, transformação e predição de dados  
+- 🤖 **Inteligência Artificial Aplicada**: Machine Learning, engenharia de prompt e criação de chatbots inteligentes  
+- 🛠️ **Automação de Processos** para ganho de eficiência e redução de tarefas manuais  
+- 🌐 **Desenvolvimento Web Full Stack**  
+  - Front-end: HTML5, CSS3, JavaScript, TypeScript, React  
+  - Back-end: PHP, integração com bancos SQL e NoSQL (MongoDB)  
+- 🔄 **Versionamento com Git/GitHub**, uso de branches e colaboração em times ágeis  
+- 📦 Vivência com sistemas **ERP, CRM e SAP** para gestão integrada de negócios
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
