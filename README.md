@@ -36,17 +36,17 @@ Sou um jovem profissional em formação com entusiasmo por **dados**, **engenhar
 
 ### 🧠 Inteligência Artificial & Automação
 <div style="display: inline_block"><br>
-  <img align="center" alt="OpenAI" height="30" width="40" src="https://img.icons8.com/color/48/000000/openai.png"/>
-  <img align="center" alt="Claude" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Anthropic_logo_2023.svg"/>
-  <img align="center" alt="Copilot" height="30" width="40" src="https://github.com/github/copilot-docs/blob/main/docs/assets/images/copilot-logo.png?raw=true"/>
-  <img align="center" alt="n8n" height="30" width="40" src="https://n8n.io/images/n8n-logo.png"/>
+  <img align="center" alt="OpenAI" height="30" width="40" src="https://raw.githubusercontent.com/openai/openai-python/main/docs/images/openai-logo.png">
+  <img align="center" alt="Claude" height="30" width="40" src="https://raw.githubusercontent.com/Doriandarko/claude-engineer/main/assets/claude-logo.svg">
+  <img align="center" alt="Copilot" height="30" width="40" src="https://raw.githubusercontent.com/github/copilot-docs/main/docs/assets/images/copilot-logo.png">
+  <img align="center" alt="n8n" height="30" width="40" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/images/n8n-logo.png">
 </div>
 
 ### 📊 Dados & Business Intelligence
 <div style="display: inline_block"><br>
-  <img align="center" alt="PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-  <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/>
-  <img align="center" alt="Cognos" height="30" width="40" src="https://seeklogo.com/images/I/ibm-cognos-logo-E5C6B93F14-seeklogo.com.png"/>
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
+  <img align="center" alt="Excel" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Excel.svg">
+  <img align="center" alt="Cognos" height="30" width="40" src="https://raw.githubusercontent.com/IBM/cognos-analytics-to-visualize-business-data/main/images/cognos-logo.png">
 </div>
 
 ### 🛢️ Banco de Dados
@@ -58,10 +58,9 @@ Sou um jovem profissional em formação com entusiasmo por **dados**, **engenhar
 ### 🛠️ DevOps & Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
-
 
 ---
 
