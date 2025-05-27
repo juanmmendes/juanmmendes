@@ -160,7 +160,7 @@ Sou um jovem profissional em formação com entusiasmo por **dados**, **engenhar
 
 <div align="center">
 
-[![Spotify Currently Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sapnj6skhrm27mu4lehsexqsvy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/31sapnj6skhrm27mu4lehsexqsvy)
+[![Spotify Currently Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=3327c87dcmrrgsk3rh8efzcfo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
