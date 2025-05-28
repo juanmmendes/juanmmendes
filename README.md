@@ -186,7 +186,7 @@ me.say_hi()
 <td align="center" width="25%">
 <a href="https://www.linkedin.com/in/juan-mendes-739084273">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-<br><b>Professional Network</b>
+<br><b>Network</b>
 </a>
 </td>
 <td align="center" width="25%">
