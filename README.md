@@ -132,7 +132,7 @@ me.say_hi()
 
 ---
 
-## 🎯 PROJETOS DESTACADOS - PORTFÓLIO DE IMPACTO
+## 🎯 PROJETOS DESTACADOS - PORTFÓLIO 
 
 <div align="center">
 
