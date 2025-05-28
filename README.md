@@ -88,10 +88,10 @@ Sou um jovem profissional em formação com entusiasmo por **dados**, **engenhar
 ## 🎯 Projetos em Destaque
 
 <div align="center">
-
-<a href="https://github.com/juanmmendes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=juanmmendes&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+<a href="https://github.com/juanmmendes/8remedios">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=8remedios&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
 </a>
+</div>
 
 </div>
 
@@ -105,10 +105,10 @@ Sou um jovem profissional em formação com entusiasmo por **dados**, **engenhar
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-mendes-739084273)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-mendes-739084273)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmmendes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.016@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](juanmmendes.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://juanmmendes.github.io/portfolio/)
 
 </div>
 
