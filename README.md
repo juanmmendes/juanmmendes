@@ -196,7 +196,7 @@ me.say_hi()
 </a>
 </td>
 <td align="center" width="25%">
-<a href="mailto:juan.016@gmail.com">
+<a href="mailto:juan.zx016@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 <br><b>Direct Contact</b>
 </a>
