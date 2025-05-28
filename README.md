@@ -1,149 +1,264 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Eai! Eu sou o Juan Mendes
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=JUAN%20MENDES&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20AI%20Specialist&descAlignY=55&descSize=18"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Especialista+em+Dados+e+BI;Estudante+de+SI;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Welcome to My Digital Universe! 
 
-[![GitHub followers](https://img.shields.io/github/followers/juanmmendes?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/juanmmendes?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=juanmmendes&label=Profile%20views&color=00D9FF&style=for-the-badge)](https://github.com/juanmmendes)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+DESENVOLVEDOR+FULL+STACK;📊+ESPECIALISTA+EM+DADOS+%26+BI;🤖+ENGENHEIRO+DE+MACHINE+LEARNING;⚡+AUTOMAÇÃO+%26+INOVAÇÃO;🎓+SISTEMAS+DE+INFORMAÇÃO" alt="Animated Title" />
 
-</div>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=600&lines=Transformando+dados+em+insights+poderosos...;Automatizando+processos+com+inteligência+artificial...;Criando+soluções+que+impactam+o+mundo+real...;Bem-vindo+ao+futuro+da+tecnologia!)](https://git.io/typing-svg)
 
-## 🧑‍💻 Sobre Mim
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+![GitHub followers](https://img.shields.io/github/followers/juanmmendes?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=juanmmendes&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/juanmmendes?style=for-the-badge&logo=github&color=gold&labelColor=000000)
 
-🎓 Estudante de **Sistemas de Informação** | 💻 Técnico em TI pelo **UNASP**  
-🚀 Apaixonado por **ciência de dados**, **automação** e **soluções tecnológicas com impacto real**
-
-Sou um jovem profissional em formação com entusiasmo por **dados**, **engenharia de software**, **automação** e **gestão estratégica em TI**. Tenho como diferencial a aplicação de **Design Thinking** em processos de resolução de problemas, sempre focando em inovação com propósito.
-
-- 📊 **Análise de Dados** com Power BI, DAX, Excel avançado e dashboards interativos  
-- 🧠 **ETL com Python e SQL**, com foco em extração, transformação e predição de dados  
-- 🤖 **Inteligência Artificial Aplicada**: Machine Learning, engenharia de prompt e criação de chatbots inteligentes  
-- 🛠️ **Automação de Processos** para ganho de eficiência e redução de tarefas manuais  
-- 🌐 **Desenvolvimento Web Full Stack** (React, PHP, JavaScript, TypeScript)
-- 🔄 **Versionamento com Git/GitHub**, uso de branches e colaboração em times ágeis  
-- 📦 Vivência com sistemas **ERP, CRM e SAP** para gestão integrada de negócios
-
-<br clear="right"/>
-
----
-
-## 🛠️ Minhas Tecnologias
-
-<div align="center">
-
-<div style="display: inline_block; margin-top: 20px;">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PowerBI" height="40" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
-  <img align="center" alt="Excel" height="40" width="50" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/>
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="VSC" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 </div>
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+## 🌟 SOBRE MIM 
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **MISSÃO PESSOAL**
+```python
+class JuanMendes:
+    def __init__(self):
+        self.name = "Juan Mendes"
+        self.role = "Full Stack Developer & Data Scientist"
+        self.language_spoken = ["pt-BR", "en-US", "es-ES"]
+        
+    def say_hi(self):
+        print("Transformando ideias em realidade digital!")
+        
+    def current_focus(self):
+        return [
+            "🧠 Machine Learning & AI",
+            "📊 Business Intelligence",
+            "⚡ Process Automation",
+            "🌐 Web Development",
+            "🔮 Future Technologies"
+        ]
+
+me = JuanMendes()
+me.say_hi()
+```
+
+</td>
+<td width="50%">
+
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
+
+### 🚀 **ESTATÍSTICAS EM TEMPO REAL**
+- 🎓 **Formação**: Sistemas de Informação + TI (UNASP)
+- 💼 **Especialidade**: Data Science & Full Stack
+- ⭐ **Foco**: Automação Inteligente
+- 🌍 **Impacto**: Soluções Reais para Problemas Reais
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ ARSENAL TECNOLÓGICO - MINHAS SUPERPOWERS
 
 <div align="center">
 
-### 🔥 Estatísticas Gerais
+### 🔥 **LINGUAGENS & FRAMEWORKS**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanmmendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,react,nodejs,html,css&theme=dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmendes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+### 📊 **DATA SCIENCE & BI**
 
-### ⚡ GitHub Streak
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,r&theme=dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanmmendes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"/>
+### 🤖 **AI & MACHINE LEARNING**
 
-### 🏆 Troféus GitHub
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=juanmmendes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
-### 📈 Gráfico de Contribuições
+### 🛠️ **FERRAMENTAS & DEVOPS**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanmmendes&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws&theme=dark" />
+
+</div>
+
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+### 🔥 **ESTATÍSTICAS PRINCIPAIS**
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=juanmmendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&custom_title=📈+GITHUB+PERFORMANCE"/>
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmendes&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+
+### ⚡ **STREAK DE COMMITS**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanmmendes&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanmmendes&custom_title=🚀+CONTRIBUTION+MATRIX&theme=redical&bg_color=0d1117&color=00d9ff&line=ff6b6b&point=ffffff&area=true&hide_border=true"/>
+
+<table align="center">
+<tr>
+<td align="center">
+<b>🔥 COMMITS THIS YEAR</b><br>
+<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Commits&query=%24.years%5B0%5D.total&url=https%3A%2F%2Fgithub-readme-stats-git-masterrstaa-rickstaa.vercel.app%2Fapi%3Fusername%3Djuanmmendes%26show_icons%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue&style=for-the-badge"/>
+</td>
+<td align="center">
+<b>⭐ TOTAL STARS</b><br>
+<img src="https://img.shields.io/github/stars/juanmmendes?style=for-the-badge&color=yellow"/>
+</td>
+<td align="center">
+<b>🔄 PULL REQUESTS</b><br>
+<img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-
-
-## 🎯 Projetos em Destaque
+## 🎯 PROJETOS DESTACADOS - PORTFÓLIO DE IMPACTO
 
 <div align="center">
+
+### 🌟 **PROJETO PRINCIPAL**
+
 <a href="https://github.com/juanmmendes/8remedios">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=8remedios&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=8remedios&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
 </a>
-</div>
+
+### 🚀 **OUTROS PROJETOS EM DESTAQUE**
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=ecommerce_predicao&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/ecommerce_predicao)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=financeiro-dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/financeiro-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=monitor-sistema&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/monitor-sistema)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=editor-de-codigo&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/editor-de-codigo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=Editor-de-Texto-Rich-Text&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/Editor-de-Texto-Rich-Text)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=AplicacaoWebPython&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/AplicacaoWebPython)
 
 </div>
-
----
-
-## 📫 Como me encontrar
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Vamos+nos+conectar+e+criar+algo+incrível!;Estou+sempre+aberto+a+novas+oportunidades!;Especialista+em+Dados+e+Automação!" alt="Contact Typing SVG" />
-
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-mendes-739084273)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmmendes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.016@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://juanmmendes.github.io/portfolio/)
 
 </div>
 
 ---
 
-## 💡 Frase Inspiracional
+## 🎧 No fone agora!
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Quote"/>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=🎵+Currently+Listening+To...;🎶+Coding+with+the+perfect+soundtrack!" alt="Spotify Typing" />
 
 
-
----
-
-<div align="center">
-
-## 🎧 No Fone Agora
-
-<div align="center">
 
 ![Spotify Currently Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3327c87dcmrrgsk3rh8efzcfo&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3327c87dcmrrgsk3rh8efzcfo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=69bfa5&bar_color_cover=true)
 
 </div>
 
+---
+
+## 🌐 CONECTE-SE COMIGO - REDES SOCIAIS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+VAMOS+CONECTAR+E+INOVAR+JUNTOS!;💡+SEMPRE+ABERTO+A+NOVAS+OPORTUNIDADES!;🌟+ESPECIALISTA+EM+TRANSFORMAÇÃO+DIGITAL!" alt="Contact Animation" />
+
+<br><br>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/juan-mendes-739084273">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+<br><b>Professional Network</b>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/juanmmendes">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+<br><b>Code Repository</b>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:juan.016@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+<br><b>Direct Contact</b>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://juanmmendes.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
+<br><b>My Universe</b>
+</a>
+</td>
+</tr>
+</table>
+
+### 📱 **QUICK STATS**
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+![Discord](https://img.shields.io/badge/Discord-Available-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)
+![Telegram](https://img.shields.io/badge/Telegram-Active-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)
+
+</div>
+
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!;⭐+Se+gostou%2C+deixe+uma+estrela!;Vamos+codar+juntos!+🚀;Data+Science+%2B+Automation" alt="Thanks Typing SVG" />
+## 💡 FRASE INSPIRACIONAL DO DIA
 
-<br>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams&author=Eleanor%20Roosevelt" alt="Inspirational Quote"/>
+
+</div>
+
+
+---
+
+## 📈 VISITOR ANALYTICS & REAL-TIME DATA
+
+<div align="center">
+
+### 🌍 **MAPA DE VISITANTES**
+
+<img src="https://profile-counter.glitch.me/juanmmendes/count.svg" alt="Visitor Count" />
+
+### 📊 **ANALYTICS DASHBOARD**
+
+<table align="center">
+<tr>
+<td align="center"><b>🔥 TOTAL VIEWS</b><br><img src="https://komarev.com/ghpvc/?username=juanmmendes&color=blueviolet&style=for-the-badge&label=VIEWS"/></td>
+<td align="center"><b>👥 FOLLOWERS</b><br><img src="https://img.shields.io/github/followers/juanmmendes?style=for-the-badge&color=blue&labelColor=000000"/></td>
+<td align="center"><b>⭐ STARS</b><br><img src="https://img.shields.io/github/stars/juanmmendes?style=for-the-badge&color=yellow&labelColor=000000"/></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=150&section=footer&animation=twinkling&fontColor=ffffff"/>
 
 </div>
