@@ -214,9 +214,15 @@ me.say_hi()
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
-![Discord](https://img.shields.io/badge/Discord-Available-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)
-![Telegram](https://img.shields.io/badge/Telegram-Active-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)
+<a href="https://wa.me/5519999791601" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp">
+</a>
+<a href="https://discordapp.com/users/anjuzz3062" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Available-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord">
+</a>
+<a href="https://t.me/SEU_USERNAME_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Active-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram">
+</a>
 
 </div>
 
