@@ -106,9 +106,6 @@ me.say_hi()
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmendes&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
 
 ### ⚡ **STREAK DE COMMITS**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanmmendes&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanmmendes&custom_title=🚀+CONTRIBUTION+MATRIX&theme=redical&bg_color=0d1117&color=00d9ff&line=ff6b6b&point=ffffff&area=true&hide_border=true"/>
 
 <table align="center">
