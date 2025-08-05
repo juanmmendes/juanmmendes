@@ -241,28 +241,6 @@ me.say_hi()
 
 ---
 
-## 📈 VISITOR ANALYTICS & REAL-TIME DATA
-
-<div align="center">
-
-### 🌍 **MAPA DE VISITANTES**
-
-<img src="https://profile-counter.glitch.me/juanmmendes/count.svg" alt="Visitor Count" />
-
-### 📊 **ANALYTICS DASHBOARD**
-
-<table align="center">
-<tr>
-<td align="center"><b>🔥 TOTAL VIEWS</b><br><img src="https://komarev.com/ghpvc/?username=juanmmendes&color=blueviolet&style=for-the-badge&label=VIEWS"/></td>
-<td align="center"><b>👥 FOLLOWERS</b><br><img src="https://img.shields.io/github/followers/juanmmendes?style=for-the-badge&color=blue&labelColor=000000"/></td>
-<td align="center"><b>⭐ STARS</b><br><img src="https://img.shields.io/github/stars/juanmmendes?style=for-the-badge&color=yellow&labelColor=000000"/></td>
-</tr>
-</table>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=150&section=footer&animation=twinkling&fontColor=ffffff"/>
