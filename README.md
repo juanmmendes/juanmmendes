@@ -69,7 +69,7 @@ me.say_hi()
 
 ---
 
-## ⚡ ARSENAL TECNOLÓGICO - MINHAS SUPERPOWERS
+## ⚡ SKILLS - MINHAS SUPERPOWERS
 
 <div align="center">
 
