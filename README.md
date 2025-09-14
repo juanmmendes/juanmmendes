@@ -229,9 +229,14 @@ me.say_hi()
 
 ## 💡 FRASE INSPIRACIONAL DO DIA
 
+<!-- 🔁 Frase do dia (random + cache-buster diário) -->
 <div align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&v=QUOTE_CACHE_BUSTER"
+    alt="Inspirational Quote"
+  />
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams&author=Eleanor%20Roosevelt" alt="Inspirational Quote"/>
 
 </div>
 
