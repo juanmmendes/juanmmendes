@@ -1,11 +1,9 @@
-name: Refresh daily quote (with PT translation)
+name: Refresh daily quote
 
 on:
   schedule:
     - cron: "0 8 * * *"   # todo dia às 08:00 UTC
   workflow_dispatch:       # permite rodar manualmente
-  push:
-    branches: ["main"]     # roda ao atualizar o README também
 
 permissions:
   contents: write
@@ -16,67 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
-
-      - name: Fetch random quote + translate to PT-BR
-        id: quote
-        env:
-          LT_ENDPOINT: https://libretranslate.de/translate   # endpoint público (pode trocar)
+      - name: Update cache-buster token in README
         run: |
-          set -e
-
-          # 1) Frase aleatória (EN)
-          QJSON=$(curl -s https://api.quotable.io/random)
-          TEXT=$(echo "$QJSON"   | jq -r '.content')
-          AUTHOR=$(echo "$QJSON" | jq -r '.author')
-
-          # 2) Traduz p/ PT-BR (fallback p/ texto original se falhar)
-          TJSON=$(curl -s -X POST "$LT_ENDPOINT" \
-            -H 'Content-Type: application/json' \
-            -d "$(jq -n --arg q "$TEXT" --arg src en --arg tgt pt '{
-                  q: $q, source: $src, target: $tgt, format: "text"
-                }')") || true
-          TRANS=$(echo "$TJSON" | jq -r '.translatedText // empty')
-          if [ -z "$TRANS" ]; then TRANS="$TEXT"; fi
-
-          # 3) Escapa p/ sed (/, &, |, quebras de linha)
-          esc() { printf '%s' "$1" | sed -e 's/[\/&|]/\\&/g' -e ':a;N;$!ba;s/\n/\\n/g'; }
-          TEXT_ESC=$(esc "$TEXT")
-          AUTHOR_ESC=$(esc "$AUTHOR")
-          TRANS_ESC=$(esc "$TRANS")
-          TODAY=$(date -u +%Y-%m-%d)
-
-          # 4) Script do sed que substitui o bloco inteiro entre os marcadores
-          cat > /tmp/replace.sed <<'SED'
-/<!-- QUOTE-START -->/,/<!-- QUOTE-END -->/c\
-<!-- QUOTE-START -->\
-<div align="center">\
-\
-> “__TEXT__”  \
-> — **__AUTHOR__**\
-\
-> “__TRANS__”  \
-> — _Tradução automática_\
-\
-<sub>Atualizado em __TODAY__ (UTC)</sub>\
-</div>\
-<!-- QUOTE-END -->
-SED
-
-          # 5) Injeta os valores no script de substituição
-          sed -i \
-            -e "s|__TEXT__|$TEXT_ESC|g" \
-            -e "s|__AUTHOR__|$AUTHOR_ESC|g" \
-            -e "s|__TRANS__|$TRANS_ESC|g" \
-            -e "s|__TODAY__|$TODAY|g" \
-            /tmp/replace.sed
-
-          # 6) Aplica ao README
-          sed -i -f /tmp/replace.sed README.md
+          TS=$(date -u +%Y%m%d)                   # chave diária, ex: 20250914
+          sed -i "s/QUOTE_CACHE_BUSTER[0-9]*/QUOTE_CACHE_BUSTER${TS}/g" README.md
+          # se for a primeira vez, também funciona porque substitui o texto literal
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs(readme): daily quote + PT translation"
+          commit_message: "docs(readme): refresh daily quote"
           file_pattern: README.md
