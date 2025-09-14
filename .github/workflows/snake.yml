@@ -2,10 +2,10 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 3 * * *"     # diário 03:00 UTC
-  workflow_dispatch:         # botão "Run workflow"
+    - cron: "0 3 * * *"          # diário 03:00 UTC
+  workflow_dispatch:              # botão "Run workflow"
   push:
-    branches: ["main"]       # ajuste se sua default branch for master
+    branches: ["main"]            # ajuste se sua default branch for outra
 
 permissions:
   contents: write
@@ -16,14 +16,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake SVGs
+      - name: Generate snake SVGs/GIF (multi-estilo)
         uses: Platane/snk@v3
         with:
           github_user_name: juanmmendes
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-light.svg?palette=github-light
+            # Neon Tech (fúcsia → índigo → ciano)
+            dist/snake-neon.svg?color_snake=%2300e5ff&color_dots=%23212533,%23303a55,%23505f9c,%238a5bd0,%2322d3ee
+            # GitHub Dark + snake ciano
+            dist/snake-dark.svg?palette=github-dark&color_snake=%2300e5ff
+            # GitHub Light + snake azul
+            dist/snake-light.svg?palette=github-light&color_snake=%233b82f6
+            # Ocean GIF (mais “vivo”, ideal p/ quem quer mais movimento)
+            dist/snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
