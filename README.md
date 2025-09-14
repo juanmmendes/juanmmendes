@@ -230,12 +230,11 @@ me.say_hi()
 ## 💡 FRASE INSPIRACIONAL DO DIA
 
 <!-- 🔁 Frase do dia (random + cache-buster diário) -->
+<!-- QUOTE-START -->
 <div align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&v=QUOTE_CACHE_BUSTER"
-    alt="Inspirational Quote"
-  />
+  <em>Carregando frase do dia…</em>
 </div>
+<!-- QUOTE-END -->
 
 
 </div>
