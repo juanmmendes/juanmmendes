@@ -235,13 +235,15 @@ me.say_hi()
 
 </div>
 
+<!-- 🐍 Snake (Neon Tech) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/github-contribution-grid-snake-light.svg">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/snake-light.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/snake-neon.svg" />
   </picture>
 </div>
+
 
 ---
 
