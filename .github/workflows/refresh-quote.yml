@@ -1,0 +1,27 @@
+name: Refresh daily quote
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # todo dia às 08:00 UTC
+  workflow_dispatch:       # permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update cache-buster token in README
+        run: |
+          TS=$(date -u +%Y%m%d)                   # chave diária, ex: 20250914
+          sed -i "s/QUOTE_CACHE_BUSTER[0-9]*/QUOTE_CACHE_BUSTER${TS}/g" README.md
+          # se for a primeira vez, também funciona porque substitui o texto literal
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs(readme): refresh daily quote"
+          file_pattern: README.md
