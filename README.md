@@ -227,7 +227,7 @@ me.say_hi()
 
 ---
 
-## 💡 FRASE INSPIRACIONAL DO DIA
+## 💡 FRASE DO DIA
 
 <!-- 🔁 Frase do dia (random + cache-buster diário) -->
 <div align="center">
