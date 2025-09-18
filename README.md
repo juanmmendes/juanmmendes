@@ -100,10 +100,9 @@ me.say_hi()
 <div align="center">
 
 ### 🔥 **ESTATÍSTICAS PRINCIPAIS**
+<img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juanmmendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&custom_title=📈+GITHUB+PERFORMANCE&cache_seconds=21600" alt="GitHub Stats"/>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=juanmmendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&custom_title=📈+GITHUB+PERFORMANCE"/>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmendes&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+ <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanmmendes&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&cache_seconds=21600" alt="Top Langs"/>
 
 ### ⚡ **STREAK DE COMMITS**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanmmendes&custom_title=🚀+CONTRIBUTION+MATRIX&theme=redical&bg_color=0d1117&color=00d9ff&line=ff6b6b&point=ffffff&area=true&hide_border=true"/>
