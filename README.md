@@ -232,7 +232,7 @@ me.say_hi()
 <!-- 🔁 Frase do dia (random + cache-buster diário) -->
 <div align="center">
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&v=QUOTE_CACHE_BUSTER20250919"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&v=QUOTE_CACHE_BUSTER20250920"
     alt="Inspirational Quote"
   />
 </div>
