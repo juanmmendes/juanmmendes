@@ -157,8 +157,6 @@ me.say_hi()
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+VAMOS+CONECTAR+E+INOVAR+JUNTOS!;💡+SEMPRE+ABERTO+A+NOVAS+OPORTUNIDADES!;🌟+ESPECIALISTA+EM+TRANSFORMAÇÃO+DIGITAL!" alt="Contact Animation" />
 
-<br><br>
-
 <table align="center">
 <tr>
 <td align="center" width="25%">
