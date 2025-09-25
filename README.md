@@ -99,30 +99,18 @@ me.say_hi()
 
 <div align="center">
 
-### 🔥 **ESTATÍSTICAS PRINCIPAIS** 
+<br><br>
 
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanmmendes&theme=radical" alt="GitHub Profile Summary"/>
-
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmendes&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
 
-### ⚡ **STREAK DE COMMITS**
+<br><br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanmmendes&custom_title=🚀+CONTRIBUTION+MATRIX&theme=redical&bg_color=0d1117&color=00d9ff&line=ff6b6b&point=ffffff&area=true&hide_border=true"/>
 
-<table align="center">
-<tr>
-<td align="center">
-<b>🔥 COMMITS THIS YEAR</b><br>
-<img src="https://github-readme-stats.vercel.app/api?username=juanmmendes&show_icons=true&custom_title=Commits%20(ano)&cache_seconds=86400" />
-<td align="center">
-<b>⭐ TOTAL STARS</b><br>
-<img src="https://img.shields.io/github/stars/juanmmendes?style=for-the-badge&color=yellow"/>
-</td>
-<td align="center">
-<b>🔄 PULL REQUESTS</b><br>
-<img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge"/>
-</td>
-</tr>
-</table>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=juanmmendes&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
 
 </div>
 
