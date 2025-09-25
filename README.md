@@ -4,10 +4,10 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Welcome to My Digital Universe! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+DESENVOLVEDOR+FULL+STACK;📊+ESPECIALISTA+EM+DADOS+%26+BI;🤖+ENGENHEIRO+DE+MACHINE+LEARNING;⚡+AUTOMAÇÃO+%26+INOVAÇÃO;🎓+SISTEMAS+DE+INFORMAÇÃO" alt="Animated Title" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+DESENVOLVEDOR+FULL+STACK;📊+ESPECIALISTA+EM+DADOS+%26+BI;🤖+ENGENHEIRO+DE+MACHINE+LEARNING" alt="Animated Title" />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=600&lines=Transformando+dados+em+insights+poderosos...;Automatizando+processos+com+inteligência+artificial...;Criando+soluções+que+impactam+o+mundo+real...;Bem-vindo+ao+futuro+da+tecnologia!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=600&lines=Transformando+dados+em+insights+poderosos...;Automatizando+processos+com+inteligência+artificial...;Criando+soluções+que+impactam+o+mundo+real...;Hey+welcome+to+tech,+let’s+go!)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
