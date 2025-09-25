@@ -112,8 +112,7 @@ me.say_hi()
 <tr>
 <td align="center">
 <b>🔥 COMMITS THIS YEAR</b><br>
-<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Commits&query=%24.years%5B0%5D.total&url=https%3A%2F%2Fgithub-readme-stats-git-masterrstaa-rickstaa.vercel.app%2Fapi%3Fusername%3Djuanmmendes%26show_icons%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue&style=for-the-badge"/>
-</td>
+<img src="https://github-readme-stats.vercel.app/api?username=juanmmendes&show_icons=true&custom_title=Commits%20(ano)&cache_seconds=86400" />
 <td align="center">
 <b>⭐ TOTAL STARS</b><br>
 <img src="https://img.shields.io/github/stars/juanmmendes?style=for-the-badge&color=yellow"/>
