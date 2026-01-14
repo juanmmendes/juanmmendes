@@ -100,38 +100,8 @@ me.say_hi()
 <div align="center">
 
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanmmendes&theme=radical" alt="GitHub Profile Summary"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmendes&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanmmendes&custom_title=🚀+CONTRIBUTION+MATRIX&theme=redical&bg_color=0d1117&color=00d9ff&line=ff6b6b&point=ffffff&area=true&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=juanmmendes&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
-
-</div>
-
----
-
-## 🎯 PROJETOS DESTACADOS - PORTFÓLIO 
-
-<div align="center">
-
-### 🌟 **PROJETO PRINCIPAL**
-
-<a href="https://github.com/juanmmendes/8remedios">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=8remedios&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
-</a>
-
-### 🚀 **OUTROS PROJETOS EM DESTAQUE**
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=ecommerce_predicao&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/ecommerce_predicao)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=financeiro-dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/financeiro-dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=monitor-sistema&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/monitor-sistema)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=editor-de-codigo&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/editor-de-codigo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=Editor-de-Texto-Rich-Text&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/Editor-de-Texto-Rich-Text)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanmmendes&repo=AplicacaoWebPython&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)](https://github.com/juanmmendes/AplicacaoWebPython)
-
-</div>
 
 </div>
 
