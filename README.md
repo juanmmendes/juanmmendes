@@ -56,7 +56,7 @@ me.say_hi()
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
 
-### 🚀 **ESTATÍSTICAS EM TEMPO REAL**
+### 👨‍💻 **PERFIL PROFISSIONAL**
 - 🎓 **Formação**: Sistemas de Informação + TI (UNASP)
 - 💼 **Especialidade**: Data Science & Full Stack
 - ⭐ **Foco**: Automação Inteligente
@@ -68,7 +68,7 @@ me.say_hi()
 
 ---
 
-## ⚡ SKILLS - MINHAS SUPERPOWERS
+## ⚡ SKILLS - MEUS SUPERPOWERS
 
 <div align="center">
 
@@ -147,7 +147,7 @@ me.say_hi()
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://juanmmendes.github.io/portfolio/">
+<a href="https://juanmmendes.github.io/web-crv/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
 <br><b>My Universe</b>
 </a>
