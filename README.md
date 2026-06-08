@@ -1,208 +1,88 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=JUAN%20MENDES&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20AI%20Specialist&descAlignY=55&descSize=18"/>
-
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Welcome to My Digital Universe! 
+# Juan Mendes
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+DESENVOLVEDOR+FULL+STACK;🤖+ESPECIALISTA+EM+AUTOMAÇÃO+N8N;⚡+SOLUÇÕES+TECH+PARA+NEGÓCIOS" alt="Animated Title" />
+### Desenvolvedor de Automação | n8n, Agentes de IA & Integração de APIs
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=600&lines=Arquitetando+Agentes+de+IA+com+n8n...;Automação+avançada+para+WhatsApp...;Orquestrando+fluxos+complexos+e+inteligentes...;Tecnologia+que+escala+negócios!)](https://git.io/typing-svg)
+Construo automações e agentes de IA que rodam em produção, conectando APIs, bancos de dados, CRMs e modelos de IA para automatizar processos de negócio de ponta a ponta.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-
-![GitHub followers](https://img.shields.io/github/followers/juanmmendes?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=juanmmendes&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/juanmmendes?style=for-the-badge&logo=github&color=gold&labelColor=000000)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-mendes-739084273)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1f1f1f?style=flat&logo=google-chrome&logoColor=white)](https://juanmmendes.github.io/web-crv/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juan.zx016@gmail.com)
 
 </div>
 
 ---
 
-## 🌟 SOBRE MIM 
+## Sobre mim
 
-<table>
-<tr>
-<td width="50%">
+Desenvolvedor focado em automação de processos com **n8n**, **agentes de IA** e **integração de sistemas**. Estudante de Sistemas de Informação (UNASP), trabalho na construção de fluxos e aplicações que resolvem problemas reais de negócio e operam em ambiente de produção.
 
-### 🎯 **MISSÃO PESSOAL**
-```python
-class JuanMendes:
-    def __init__(self):
-        self.name = "Juan Mendes"
-        self.role = "Full Stack Developer & Data Scientist"
-        self.language_spoken = ["pt-BR", "en-US", "es-ES"]
-        
-    def say_hi(self):
-        print("Transformando ideias em realidade digital!")
-        
-    def current_focus(self):
-        return [
-            "🧠 Machine Learning & AI",
-            "📊 Business Intelligence",
-            "⚡ Process Automation",
-            "🌐 Web Development",
-            "🔮 Future Technologies"
-        ]
-
-me = JuanMendes()
-me.say_hi()
-```
-
-</td>
-<td width="50%">
-
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
-
-### 👨‍💻 **PERFIL PROFISSIONAL**
-- 🎓 **Formação**: Sistemas de Informação + TI (UNASP)
-- 💼 **Especialidade**: Data Science & Full Stack
-- ⭐ **Foco**: Automação Inteligente
-- 🌍 **Impacto**: Soluções Reais para Problemas Reais
-
-</td>
-</tr>
-</table>
+- Foco: automação com n8n, agentes de IA e integração de APIs
+- Também atuo com desenvolvimento web e soluções orientadas a dados
+- 1º lugar no Hackathon de IA UNASP + IBM (projeto CRISIS)
+- Idiomas: Português, Inglês e Espanhol
 
 ---
 
-## ⚡ SKILLS - MEUS SUPERPOWERS
+## Projetos em destaque
 
-<div align="center">
+### [Crisis Monitor — Hackathon UNASP + IBM](https://github.com/juanmmendes/Hackathon-IBM)
+Plataforma de inteligência humanitária premiada em 1º lugar. Orquestra 9 agentes de IA com **IBM watsonx Orchestrate** e **Granite 3.3-8B** para classificar crises, prever riscos e fazer o matching entre voluntários e causas. Integra 5 fontes de dados internacionais (USGS, GDACS, NASA EONET, GDELT, ReliefWeb) em tempo real.
+`FastAPI` · `Flask` · `watsonx` · `Docker` · `SQLite` · `Telegram`
 
-### 🔥 **LINGUAGENS & FRAMEWORKS**
+### [Bot Telegram + OpenAI](https://github.com/juanmmendes/bot_telegram-OpenAI-)
+Assistente conversacional multimodal que entende texto, áudio e imagem e responde via OpenAI, com contexto de cotações em tempo real (AwesomeAPI e PTAX do Banco Central). Buffer inteligente de mensagens, transcrição com Whisper, persistência de histórico e CLI administrativa.
+`Python` · `OpenAI` · `Telegram Bot API` · `Whisper`
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,react,nodejs,html,css&theme=dark" />
+### [E-commerce Analytics & Churn Prediction](https://github.com/juanmmendes/ecommerce_predicao)
+Pipeline completo de dados: geração sintética, ETL, análise exploratória e modelo de predição de churn (Random Forest), com dashboard interativo em Streamlit e testes unitários. Arquitetura modular orientada a engenharia de dados e ML.
+`Python` · `Streamlit` · `scikit-learn` · `SQLite`
 
-### 📊 **DATA SCIENCE & BI**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,r&theme=dark" />
-
-### 🤖 **AI & MACHINE LEARNING**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-
-
-### 🛠️ **FERRAMENTAS & DEVOPS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws&theme=dark" />
-
-</div>
-
+### [Cotações App](https://github.com/juanmmendes/ConsumoApiCotacao)
+Aplicação Flask para acompanhar cotações de moedas e criptomoedas em tempo real, com conversor integrado, API REST própria e interface responsiva. Consome a AwesomeAPI com atualização automática e tratamento de erros.
+`Python` · `Flask` · `REST API` · `JavaScript`
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## Stack
+
+**Automação & IA**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![IBM watsonx](https://img.shields.io/badge/IBM%20watsonx-052FAD?style=flat&logo=ibm&logoColor=white)
+
+**Linguagens & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Dados & Infra**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanmmendes&theme=radical" alt="GitHub Profile Summary"/>
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanmmendes&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmendes&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## 🎧 No fone agora!
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=🎵+Currently+Listening+To...;🎶+Coding+with+the+perfect+soundtrack!" alt="Spotify Typing" />
-
-
-
-![Spotify Currently Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3327c87dcmrrgsk3rh8efzcfo&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3327c87dcmrrgsk3rh8efzcfo&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=69bfa5&bar_color_cover=true)
-
-</div>
-
----
-
-## 🌐 CONECTE-SE COMIGO - REDES SOCIAIS
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+VAMOS+CONECTAR+E+INOVAR+JUNTOS!;💡+SEMPRE+ABERTO+A+NOVAS+OPORTUNIDADES!;🌟+ESPECIALISTA+EM+TRANSFORMAÇÃO+DIGITAL!" alt="Contact Animation" />
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<a href="https://www.linkedin.com/in/juan-mendes-739084273">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-<br><b>Network</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/juanmmendes">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-<br><b>Code Repository</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="mailto:juan.zx016@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-<br><b>Direct Contact</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://juanmmendes.github.io/web-crv/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
-<br><b>My Universe</b>
-</a>
-</td>
-</tr>
-</table>
-
-### 📱 **QUICK STATS**
-
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-<a href="https://wa.me/5519999791601" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp">
-</a>
-<a href="https://discordapp.com/users/anjuzz3062" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-Available-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord">
-</a>
-<a href="https://t.me/SEU_USERNAME_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-Active-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram">
-</a>
-
-</div>
-
-</div>
-
----
-
-## 💡 FRASE DO DIA
-
-<!-- 🔁 Frase do dia (random + cache-buster diário) -->
-<div align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&v=QUOTE_CACHE_BUSTER20260608"
-    alt="Inspirational Quote"
-  />
-</div>
-
-<br><br>
-
-</div>
-
-<!-- 🐍 Snake (Neon Tech) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/snake-light.svg">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/snake-neon.svg" />
-  </picture>
-</div>
-
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=150&section=footer&animation=twinkling&fontColor=ffffff"/>
+Aberto a projetos de automação e novas oportunidades.
+[Vamos conversar no LinkedIn →](https://www.linkedin.com/in/juan-mendes-739084273)
 
 </div>
