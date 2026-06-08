@@ -1,14 +1,17 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Mendes&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20de%20Automa%C3%A7%C3%A3o%20%7C%20n8n%20%7C%20Agentes%20de%20IA%20%7C%20Integra%C3%A7%C3%A3o%20de%20APIs&descAlignY=58&descSize=16"/>
+
 <div align="center">
 
-# Juan Mendes
-
-### Desenvolvedor de Automação | n8n, Agentes de IA & Integração de APIs
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Automa%C3%A7%C3%A3o+de+processos+com+n8n;Agentes+de+IA+rodando+em+produ%C3%A7%C3%A3o;Integra%C3%A7%C3%A3o+de+APIs%2C+bancos+e+CRMs;Tecnologia+que+escala+neg%C3%B3cios)](https://git.io/typing-svg)
 
 Construo automações e agentes de IA que rodam em produção, conectando APIs, bancos de dados, CRMs e modelos de IA para automatizar processos de negócio de ponta a ponta.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-mendes-739084273)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1f1f1f?style=flat&logo=google-chrome&logoColor=white)](https://juanmmendes.github.io/web-crv/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juan.zx016@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-mendes-739084273)
+[![Site](https://img.shields.io/badge/jotaflows.com.br-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jotaflows.com.br)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1f1f1f?style=for-the-badge&logo=github&logoColor=white)](https://juanmmendes.github.io/web-crv/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.zx016@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=juanmmendes&label=Profile+views&color=00D9FF&style=flat)
 
 </div>
 
@@ -73,16 +76,42 @@ Aplicação Flask para acompanhar cotações de moedas e criptomoedas em tempo r
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanmmendes&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmendes&layout=compact&theme=default&hide_border=true)
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanmmendes&theme=radical" alt="GitHub Profile Summary"/>
 
+</div>
+
+---
+
+## No fone agora
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3327c87dcmrrgsk3rh8efzcfo&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=69bfa5&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3327c87dcmrrgsk3rh8efzcfo&redirect=true)
+
+</div>
+
+---
+
+## Frase do dia
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&v=QUOTE_CACHE_BUSTER20260608" alt="Frase do dia"/>
+</div>
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/snake-light.svg">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/juanmmendes/juanmmendes/output/snake-neon.svg" />
+</picture>
 </div>
 
 ---
 
 <div align="center">
 
-Aberto a projetos de automação e novas oportunidades.
-[Vamos conversar no LinkedIn →](https://www.linkedin.com/in/juan-mendes-739084273)
+Quer ver as automações e os fluxos em ação? Dá uma olhada no meu site: **[jotaflows.com.br](https://jotaflows.com.br)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=120&section=footer&animation=twinkling&fontColor=ffffff"/>
 
 </div>
