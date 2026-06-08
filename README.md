@@ -23,7 +23,6 @@ Desenvolvedor focado em automação de processos com **n8n**, **agentes de IA** 
 
 - Foco: automação com n8n, agentes de IA e integração de APIs
 - Também atuo com desenvolvimento web e soluções orientadas a dados
-- 1º lugar no Hackathon de IA UNASP + IBM (projeto CRISIS)
 - Idiomas: Português, Inglês e Espanhol
 
 ---
