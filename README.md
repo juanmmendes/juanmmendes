@@ -97,11 +97,11 @@ Aplicação Flask para acompanhar cotações de moedas e criptomoedas em tempo r
 
 ---
 
-## No fone agora
+## No fone agora 🎧
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3327c87dcmrrgsk3rh8efzcfo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=00e038&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3327c87dcmrrgsk3rh8efzcfo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=00e038&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3327c87dcmrrgsk3rh8efzcfo&redirect=true)
 
 </div>
 
