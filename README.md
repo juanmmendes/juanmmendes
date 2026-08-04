@@ -91,7 +91,7 @@ Aplicação Flask para acompanhar cotações de moedas e criptomoedas em tempo r
 
 <div align="center">
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanmmendes&theme=radical" alt="GitHub Profile Summary"/>
+<img width="100%" src="https://raw.githubusercontent.com/juanmmendes/juanmmendes/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Resumo do perfil" />
 
 </div>
 
