@@ -8,7 +8,7 @@ Construo automações e agentes de IA que rodam em produção, conectando APIs, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-mendes-739084273)
 [![Site](https://img.shields.io/badge/jotaflows.com.br-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jotaflows.com.br)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1f1f1f?style=for-the-badge&logo=github&logoColor=white)](https://juanmmendes.github.io/web-crv/)
+[![Currículo](https://img.shields.io/badge/Portf%C3%B3lio-1f1f1f?style=for-the-badge&logo=github&logoColor=white)](https://juanmmendes.github.io/web-crv/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.zx016@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=juanmmendes&label=Profile+views&color=00D9FF&style=flat)
