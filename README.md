@@ -47,7 +47,7 @@ Aplicação Flask para acompanhar cotações de moedas e criptomoedas em tempo r
 
 ---
 
-## Stacks
+## Stack
 
 **Automação & IA**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
