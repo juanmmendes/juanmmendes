@@ -96,7 +96,7 @@ Aplicação Flask para acompanhar cotações de moedas e criptomoedas em tempo r
 </div>
 
 ---
-
+<!--
 ## No fone agora 🎧
 
 <div align="center">
@@ -106,7 +106,8 @@ Aplicação Flask para acompanhar cotações de moedas e criptomoedas em tempo r
 </div>
 
 ---
-
+ -->
+ 
 ## Frase do dia
 
 <div align="center">
