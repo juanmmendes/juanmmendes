@@ -93,6 +93,9 @@ Aplicação Flask para acompanhar cotações de moedas e criptomoedas em tempo r
 
 <img width="100%" src="https://raw.githubusercontent.com/juanmmendes/juanmmendes/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Resumo do perfil" />
 
+<img width="49%" src="https://raw.githubusercontent.com/juanmmendes/juanmmendes/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repositorios por linguagem" />
+<img width="49%" src="https://raw.githubusercontent.com/juanmmendes/juanmmendes/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Linguagem mais usada em commits" />
+
 </div>
 
 ---
