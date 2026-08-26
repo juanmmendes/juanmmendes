@@ -114,7 +114,7 @@ Aplicação Flask para acompanhar cotações de moedas e criptomoedas em tempo r
 ## Frase do dia
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&v=QUOTE_CACHE_BUSTER20260825" alt="Frase do dia"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&v=QUOTE_CACHE_BUSTER20260826" alt="Frase do dia"/>
 </div>
 
 <div align="center">
